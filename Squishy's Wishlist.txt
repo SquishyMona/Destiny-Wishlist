@@ -1,0 +1,12 @@
+title:Squishy's Wishlist
+
+// The Hero's Burden - PvE Volatile Roll (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1028124540&perks=3250034553,106909392,2779035018,2048641572
+
+
+// IKELOS_HC_v1.0.3 - PvE Ranger (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1731355324&perks=3250034553,1140096971,744594675,3425386926
+
+
