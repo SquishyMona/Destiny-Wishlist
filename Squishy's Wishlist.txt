@@ -9,4 +9,10 @@ dimwishlist:item=1028124540&perks=3250034553,106909392,2779035018,2048641572
 //notes: tags:god-pve
 dimwishlist:item=1731355324&perks=3250034553,1140096971,744594675,3425386926
 
+// Regnant - PvE Boss DPS (god-pve)
+dimwishlist:item=268260372&perks=3525010810,2822142346,3300816228,3194351027
+
+// Seventh Sereph Officer Revolver - PvE Ranger (god-pve)
+dimwishlist:item=1555959830&perks=3250034553,1140096971,2846385770,438098033
+
 
