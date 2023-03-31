@@ -15,4 +15,7 @@ dimwishlist:item=268260372&perks=3525010810,2822142346,3300816228,3194351027
 // Seventh Sereph Officer Revolver - PvE Ranger (god-pve)
 dimwishlist:item=1555959830&perks=3250034553,1140096971,2846385770,438098033
 
+// Funnelweb - PvE Ad Clear (god-pve)
+dimwishlist:item=3341893443&perks=1840239774,106909392,1820235745,11612903
+
 
