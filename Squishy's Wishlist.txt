@@ -1,21 +1,8 @@
 title:Squishy's Wishlist
 
-// The Hero's Burden - PvE Volatile Roll (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=1028124540&perks=3250034553,106909392,2779035018,2048641572
-
-
-// IKELOS_HC_v1.0.3 - PvE Ranger (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=1731355324&perks=3250034553,1140096971,744594675,3425386926
-
-// Regnant - PvE Boss DPS (god-pve)
-dimwishlist:item=268260372&perks=3525010810,2822142346,3300816228,3194351027
-
-// Seventh Sereph Officer Revolver - PvE Ranger (god-pve)
-dimwishlist:item=1555959830&perks=3250034553,1140096971,2846385770,438098033
-
 // Funnelweb - PvE Ad Clear (god-pve)
 dimwishlist:item=3341893443&perks=1840239774,106909392,1820235745,11612903
 
+// Circular Logic - PvE
+dimwishlist:item=2187717691&perks=3250034553,3230963543,2779035018,365154968
 
